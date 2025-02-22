@@ -1,2 +1,0 @@
-MAILTO=""
-* * * * * wget https://primary-production-57b8.up.railway.app/wp-cron.php?doing_cron=true > /dev/null 2>&1
